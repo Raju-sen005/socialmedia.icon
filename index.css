@@ -18,3 +18,9 @@ body{
 	background: url()no-repeat center center fixed;
 	background-size: cover;
  } */
+#contain {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  top: 380px;
+}
